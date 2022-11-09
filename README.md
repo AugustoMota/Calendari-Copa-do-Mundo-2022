@@ -1,77 +1,48 @@
-# Copa Do Mundo
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AugustoMota/Calendari-Copa-do-Mundo-2022/blob/main/LICENCE) 
+<h1 align="center"> Explorer Lab #01 </h1>
 
-# Sobre o projeto
+<p align="center">
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
-https://wmazoni-sds1.netlify.app
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+<br>
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+<p align="center">
+  <img alt="rocketpay" src=".github/project.png" width="100%">
+</p>
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## 🚀 Tecnologias
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+- HTML e CSS
+- JavaScript e JSON
+- [Node e NPM](https://nodejs.org/)
+- [Vite](https://vitejs.dev/)
+- [iMask](https://imask.js.org)
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+## 💻 Projeto
 
-# Como executar o projeto
+O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
-## Back end
-Pré-requisitos: Java 11
+## 🔖 Layout
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-# entrar na pasta do projeto back end
-cd backend
+## :memo: Licença
 
-# executar o projeto
-./mvnw spring-boot:run
-```
+Esse projeto está sob a licença MIT.
 
-## Front end web
-Pré-requisitos: npm / yarn
+---
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketsea
