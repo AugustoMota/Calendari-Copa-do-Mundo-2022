@@ -1,5 +1,5 @@
 # Copa Do Mundo
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AugustoMota/Calendari-Copa-do-Mundo-2022/blob/main/LICENCE) 
 
 # Sobre o projeto
 
